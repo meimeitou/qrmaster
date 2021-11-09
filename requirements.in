@@ -1,0 +1,13 @@
+autopep8
+yamllint
+pip-tools
+amzqr
+flask
+https://mirrors.aliyun.com/pypi/packages/00/8e/ddb5b5910ab2b04cf0d6334bce7c1debec4d18d7785d2cabed4fe9068f0b/Bootstrap_Flask-1.8.0-py2.py3-none-any.whl
+Flask-WTF
+webargs
+smart_getenv
+marshmallow
+requests
+opencv-python
+numpy
